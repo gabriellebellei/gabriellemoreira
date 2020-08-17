@@ -1,4 +1,10 @@
-### Hi there 👋
+## i'm g!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellemoreirabellei/)](https://www.linkedin.com/in/gabriellemoreirabellei/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielle.bmoreira@gmail.com)](mailto:gabrielle.bmoreira@gmail.com)
+ 
+Thanks for visiting. 
+Enjoy it!! :wink:
 
 <!--
 **gabriellemoreira/gabriellemoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
